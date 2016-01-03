@@ -1,0 +1,6 @@
+name: ChatColors
+main: com.gmail.merenze.chatcolors.ChatColors
+version: 1
+commands:
+  color:
+    description: Changes color of display name
