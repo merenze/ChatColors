@@ -2,5 +2,7 @@ name: ChatColors
 main: com.gmail.merenze.chatcolors.ChatColors
 version: 1
 commands:
-  color:
-    description: Changes color of display name
+  tag:
+    usage: /tag <color>
+    description: Change color of display name
+    aliases: color
